@@ -1,5 +1,5 @@
 # Ansible
-ansible_user: venky
+# ansible_user: root
 
 # Kubernetes
 kube_version: v1.18.0
